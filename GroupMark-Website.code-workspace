@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "name": "GroupMark Portal",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "liveServer.settings.port": 5500,
+    "editor.tabSize": 2,
+    "html.format.wrapLineLength": 120
+  }
+}
