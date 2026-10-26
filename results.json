@@ -1,9 +1,8 @@
 {
-  "generated": "2026-10-25T12:16:29",
+  "generated": "2026-10-26T07:15:24",
   "students": {
     "482dfceaa163dd89ea06a5ca0281b56a2f3c5a0090e0d3863f94d349e133b820": {"group": "PROJECT 11", "project": "GROUP PARTICIPATION SYSTEM", "role": "Leader", "tasks": "worked on the backend", "leaderMark": 90.0, "finalMark": 87.0},
     "2494713e4480aaea689207676003b6d9ba1ebd3772b30bb1340be3a4fe3c456b": {"group": "PROJECT 11", "project": "GROUP PARTICIPATION SYSTEM", "role": "Member", "tasks": "Worked on the Group report", "leaderMark": 90.0, "finalMark": 70.0},
-    "be13356ba43f6b682bd1cb5612da79d20375dc9cc9d8bc33fa2e880e4e133970": {"group": "PROJECT 11", "project": "GROUP PARTICIPATION SYSTEM", "role": "Member", "tasks": "Printing group doucments", "leaderMark": 82.0, "finalMark": 85.0},
     "683ac01032d2ccd2e09c95b490393b7243c1c5edac09fb98a345b8b9a9f4c421": {"group": "PROJECT 11", "project": "GROUP PARTICIPATION SYSTEM", "role": "Deputy leader", "tasks": "Worked on JAVAscript", "leaderMark": 93.0, "finalMark": 94.0}
   }
 }
