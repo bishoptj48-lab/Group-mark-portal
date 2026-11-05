@@ -1,6 +1,7 @@
 {
-  "generated": "2026-11-06T01:05:45",
+  "generated": "2026-11-06T01:11:12",
   "students": {
-    "1d663606e2c713718defe09b3c8c34466244241ece12767e2a0b5d6a53eb7d06": {"group": "VU.students", "project": "NETWORKING", "role": "Member", "tasks": "Backend", "leaderMark": 27.0, "lecturerMark": 58.0, "total": 85.0, "finalMark": 85.0}
+    "1d663606e2c713718defe09b3c8c34466244241ece12767e2a0b5d6a53eb7d06": {"group": "VU.students", "project": "NETWORKING", "role": "Member", "tasks": "Backend", "leaderMark": 27.0, "lecturerMark": 58.0, "total": 85.0, "finalMark": 85.0},
+    "3982deb48078889ba30bcb9a548fa8df55f454461f040cd50f5a5203e9ca8405": {"group": "VU.students", "project": "NETWORKING", "role": "Member", "tasks": "User Interface", "leaderMark": 29.0, "lecturerMark": 65.0, "total": 94.0, "finalMark": 94.0}
   }
 }
